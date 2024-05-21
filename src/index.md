@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 layout: base.njk
 templateEngineOverride: md, njk
 ---

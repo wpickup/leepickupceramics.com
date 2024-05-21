@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: base.njk
 templateEngineOverride: md, njk
 ---
@@ -55,5 +56,3 @@ templateEngineOverride: md, njk
 <h2 id="quickstart" class="tdbc-h3 tdbc-mt-lg">Quick Start</h2>
 
 {{ content | safe }}
-
-</main>

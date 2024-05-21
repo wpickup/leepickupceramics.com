@@ -1,7 +1,7 @@
 ---
 layout: 'base.njk'
 permalink: /
-title: 'Our Eleventy page'
+title: 'Lee Pickup Ceramics'
 ---
 
-# Hola Medium!
+The website for Lee Pickup Ceramics

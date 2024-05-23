@@ -2,37 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:8080/blog/first-post/</loc>
-		
-    <lastmod>2024-05-21T11:50:09Z</lastmod>
-		
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/blog/second-post/</loc>
-		
-    <lastmod>2024-05-21T11:50:09Z</lastmod>
-		
-  </url>
-  
-  <url>
     <loc>http://localhost:8080/</loc>
 		
-    <lastmod>2024-05-21T11:50:09Z</lastmod>
+    <lastmod>2024-05-23T11:17:29Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://localhost:8080/about/</loc>
 		
-    <lastmod>2024-05-21T11:50:09Z</lastmod>
+    <lastmod>2024-05-23T11:17:29Z</lastmod>
 		
   </url>
   
   <url>
     <loc>http://localhost:8080/helloworld/</loc>
 		
-    <lastmod>2024-05-21T11:50:09Z</lastmod>
+    <lastmod>2024-05-23T11:17:29Z</lastmod>
 		
   </url>
 </urlset>

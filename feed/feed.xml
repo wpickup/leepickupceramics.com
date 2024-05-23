@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Lee Pickup Ceramics</title>
-	<subtitle>Lee Pickup Ceramics Web Site</subtitle>
+	<subtitle>The web site of Lee Pickup Ceramics</subtitle>
 	
 	<link href="http://localhost:8080/feed/" rel="self"/>
 	<link href="http://localhost:8080"/>
-	<updated>2024-05-21T11:50:09Z</updated>
+	<updated>2024-05-23T11:17:29Z</updated>
 	<id>http://localhost:8080</id>
 	<author>
 		<name>Lee Pickup</name>
@@ -14,7 +14,7 @@
 	<entry>
 		<title>About</title>
 		<link href="http://localhost:8080/about/"/>
-		<updated>2024-05-21T11:50:09Z</updated>
+		<updated>2024-05-23T11:17:29Z</updated>
 		<id>http://localhost:8080/about/</id>
 		<content type="html">&lt;h2 id=&quot;intro-to-jumpstart&quot; tabindex=&quot;-1&quot;&gt;Intro to Jumpstart&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/about/#intro-to-jumpstart&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;This jumpstart is intended to be &lt;em&gt;just enough&lt;/em&gt; to be a functional site/blog using 11ty, and also to introduce essential 11ty features.&lt;/p&gt;
@@ -148,7 +148,7 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 	<entry>
 		<title>Hello World</title>
 		<link href="http://localhost:8080/helloworld/"/>
-		<updated>2024-05-21T11:50:09Z</updated>
+		<updated>2024-05-23T11:17:29Z</updated>
 		<id>http://localhost:8080/helloworld/</id>
 		<content type="html">&lt;blockquote&gt;
 &lt;p&gt;Credit for the kitchen sink elements to the &lt;a href=&quot;https://github.com/pmarsceill/just-the-docs&quot;&gt;&amp;quot;Just the Docs&amp;quot;&lt;/a&gt; project by &lt;a href=&quot;https://github.com/pmarsceill&quot;&gt;pmarsceill&lt;/a&gt;.&lt;/p&gt;

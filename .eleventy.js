@@ -36,7 +36,6 @@ module.exports = function (eleventyConfig) {
       }),
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
-
   return {
     dir: {
       input: "src",
